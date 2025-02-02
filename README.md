@@ -62,21 +62,20 @@ Below are the available scripts for this project:
 ## Screenshots
 ### HomePage
 ![Screenshot 1](./public/img1.png)
-*This is the first screenshot showing the main dashboard. Here is where all the tasks are listed and we have also included a dummy button to add any new task.*
+*This is the first screenshot showing the Start Screen. Here is where we can start the quiz*
 
 ### Add Task
 ![Screenshot 2](./public/img2.png)
-*This screenshot shows the interface where we can add a new task to our to-do list.*
+*This screenshot shows the interface where we can select an option and navigate to the next question.*
 
 ### Edit Task
 ![Screenshot 3](./public/img3.png)
-*Here is a screenshot of the interface where we can edit an existing task from our to-do list.*
+*Here is a screenshot of the interface where our final score is displayed after submission and we also have the option to restart the quiz.*
 
 ## Assumptions
 
 - **Fetching Data**: The quiz data is fetched from a predefined API.
 - **Answer Selection**: Users can select only one answer per question.
-- **Answer Validation**: Selected answers are visually highlighted as correct or incorrect.
 - **Navigation**: Users manually move to the next question using a "Next" button after selection.
 - **Score Calculation**: The score is updated in real time based on correct answers.
 
